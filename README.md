@@ -4,13 +4,13 @@ A quick reminder of all relevant SQL queries and examples on how to use them.
 
 This repository is constantly being updated and added to by the community. Pull requests are welcome. Enjoy And Happy Learning!
 
-Table of Contents
-Finding Data Queries.
-Data Modification Queries.
-Reporting Queries.
-Join Queries.
-View Queries.
-Altering Table Queries.
+Table of Contents:
+1.Finding Data Queries.
+2.Data Modification Queries.
+3.Reporting Queries.
+4.Join Queries.
+5.View Queries.
+6.Altering Table Queries.
 
 1. Finding Data Queries
 SELECT: used to select data from a database
