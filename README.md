@@ -11,3 +11,5 @@ Quick SQL Cheatsheet -
 ![s9](https://user-images.githubusercontent.com/42317258/51379406-57194000-1b35-11e9-97ff-8306f49886b1.PNG)
 
   ![s1](https://user-images.githubusercontent.com/42317258/51379363-3cdf6200-1b35-11e9-8f54-810aaead167b.PNG)
+![s10](https://user-images.githubusercontent.com/42317258/51379689-fd654580-1b35-11e9-98b5-fa902126330c.PNG)
+![s11](https://user-images.githubusercontent.com/42317258/51379700-035b2680-1b36-11e9-86c2-c4f5c214edfb.PNG)
