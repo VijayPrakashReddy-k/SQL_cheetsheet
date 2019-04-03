@@ -13,3 +13,7 @@ Quick SQL Cheatsheet -
   ![s1](https://user-images.githubusercontent.com/42317258/51379363-3cdf6200-1b35-11e9-8f54-810aaead167b.PNG)
 ![s10](https://user-images.githubusercontent.com/42317258/51379689-fd654580-1b35-11e9-98b5-fa902126330c.PNG)
 ![s11](https://user-images.githubusercontent.com/42317258/51379700-035b2680-1b36-11e9-86c2-c4f5c214edfb.PNG)
+
+## Order of Execution :
+![o1](https://user-images.githubusercontent.com/42317258/55469434-25d3ea80-5623-11e9-9af1-533ed0b24448.PNG)
+![O2](https://user-images.githubusercontent.com/42317258/55469697-a1359c00-5623-11e9-80a7-12e09b898614.PNG)
